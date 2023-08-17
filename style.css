@@ -1,0 +1,49 @@
+body {
+  background: url(https://img.freepik.com/free-vector/template-banner-online-store-with-shopping-cart-with-purchases-boxes-delivery-from-supermarket-vector-illustration_548887-104.jpg?w=2000);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #CFDBFC;
+}
+
+
+li {
+  color: #581845;
+  margin-left: 200px;
+  font-size: 1.4em;
+}
+
+h1, p {
+  color:#1A5276;
+  margin-left: 230px;
+}
+
+button {
+  color: #641E16; 
+  background: #76D7C4;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
+input {
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+.testingIt {
+  text-decoration-line: line-through;
+}
+
+.deleteButton {
+  background-color: #76D7C4;
+  color: ##E67E22;
+  border-radius: 30px
+  margin: 20px;
+}
+
+.done {
+  text-decoration: line-through #6C3483;
+}
